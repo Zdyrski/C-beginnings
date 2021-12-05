@@ -17,6 +17,6 @@ Here I simply draw various fractals, you can also design your own.
 2. Pick number of iterations, length of one segment(in pixels) and if it should draw slowly or not.
 3. Effect
 
-![fractals](draw%fractals/fractals.png)
+![fractals](draw%20fractals/fractals.png)
 
 Note. Drawing starts from center of a screen so it can sometimes go off it.

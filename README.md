@@ -10,6 +10,8 @@ It's simple.
 2. Pick power to which polynomial should regress.
 3. Effect
 
+![ploy](polynomial%20regression/poly.png)
+
 ## Draw fractals
 Here I simply draw various fractals, you can also design your own.
 
